@@ -1,0 +1,21 @@
+# Ignore Python virtual environments
+venv/
+api/venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment files
+.env
+
+# Node modules (for React frontend)
+frontend/node_modules/
+
+# Build folders
+frontend/build/
+frontend/dist/
+
+# System files
+.DS_Store
+Thumbs.db
