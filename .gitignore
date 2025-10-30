@@ -19,3 +19,9 @@ frontend/dist/
 # System files
 .DS_Store
 Thumbs.db
+# Ignore datasets
+Train/
+Test/
+Valid/
+dataset/
+data/
