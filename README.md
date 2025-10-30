@@ -15,7 +15,7 @@ This project leverages **deep learning (CNN)** to classify diseased vs healthy l
 
 ---
 
-## 🧩 Technologies Used
+## Technologies Used
 
 | Category | Tools / Libraries |
 |-----------|-------------------|
@@ -58,8 +58,11 @@ npm start
 The Jupyter Notebook (Crop_Classifier.ipynb) contains:
 
 Data preprocessing and augmentation
+
 CNN model architecture definition
+
 Training and validation performance
+
 Model saving/export to .h5 or TensorFlow SavedModel format
 
 Trained weights are stored in the models/ folder.
