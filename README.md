@@ -55,7 +55,7 @@ npm install
 npm start
 ```
 ### Model Training
-The Jupyter Notebook (Crop_Classifier.ipynb) contains:
+The Jupyter Notebook (Crop_Disease_prediction.ipynb) contains:
 
 Data preprocessing and augmentation
 
